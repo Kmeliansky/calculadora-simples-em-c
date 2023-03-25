@@ -22,5 +22,5 @@ algoritmo para calculo de operacoes basicas como: Soma, Subtração, Divisão, M
 
 ![App Screenshot](https://i.ibb.co/7WPfn0k/screen1.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.ibb.co/sCR4xms/scree2.png)
 
